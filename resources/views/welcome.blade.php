@@ -87,7 +87,7 @@
                 <input value="2" name="psc" type="hidden">
                 <input value="3" name="pdc" type="hidden">
                 <input value="EPAYTEST" name="scd" type="hidden">
-                <input value="12222222228889888" name="pid" type="hidden">
+                <input value="ghsdfsghdfsghdfjhsgdfjhsdgfjhdgfjhdgfjhdgfjhfgjhfg-bsdjfhb-fjskdfb" name="pid" type="hidden">
                 <input value="http://127.0.0.1:8000/payement-verify?q=su" type="hidden" name="su">
                 <input value="http://127.0.0.1:8000/payement-verify?q=fu" type="hidden" name="fu">
                 <button value="Submit" style="color:green; "  type="submit">pay with eSewa</button>
